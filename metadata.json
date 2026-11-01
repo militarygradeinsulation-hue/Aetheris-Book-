@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris — 3D Interactive Forensic Methodology Codex",
+  "description": "An interactive 3D digital flipbook experience for 'The Aetheris Integrated Forensic Methodology' by Joseph Toney, featuring realistic page-turning physics, touch gestures, customizable typography, studio lighting controls, procedural ambient audio, and bookmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
